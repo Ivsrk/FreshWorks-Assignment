@@ -8,10 +8,19 @@ Functional requirements:
 3. On clicking a movie poster, one should be redirected to a movie information page to show details about the movie. This will also contain the full plot. You can be creative in designing this page.
 4. The details page should have a link to go back to the previous page, where the search results were displayed thus storing the previous state.
 
+![homepage][logo]
 
-![HomePage](/src/homepage.jpg)
-
-![Search](/src/search.jpg)
+[logo]: https://github.com/Ivsrk/FreshWorks-Assignment/blob/master/MovieSearchAPI/src/homepage.jpg 
 
 
-![IMDB redirect](/src/imdb redirect.jpg)
+
+
+![Search][logo1]
+
+[logo1]: https://github.com/Ivsrk/FreshWorks-Assignment/blob/master/MovieSearchAPI/src/search.jpg 
+
+
+
+![imdb redirect][logo2]
+
+[logo2]: https://github.com/Ivsrk/FreshWorks-Assignment/blob/master/MovieSearchAPI/src/imdb%20redirect.jpg
