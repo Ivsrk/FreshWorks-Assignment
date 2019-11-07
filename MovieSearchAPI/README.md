@@ -9,7 +9,9 @@ Functional requirements:
 4. The details page should have a link to go back to the previous page, where the search results were displayed thus storing the previous state.
 
 
-![MovieWiki](/src/homepage.png)
+![HomePage](/src/homepage.jpg)
 
-![MovieWiki](/src/search.png)
+![Search](/src/search.jpg)
 
+
+![IMDB redirect](/src/imdb redirect.jpg)
